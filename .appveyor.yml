@@ -1,4 +1,4 @@
-clone_depth: 30
+  clone_depth: 30
 environment:
   VisualStudioVersion: 14.0
 configuration: Release
